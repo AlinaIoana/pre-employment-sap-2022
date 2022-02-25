@@ -1,0 +1,25 @@
+* {
+    background-color: rgb(241, 205, 170);
+    margin-left: 2rem;
+}
+
+h4 {
+    margin-bottom: 0px;
+}
+
+textarea, input {
+    background-color: antiquewhite;
+}
+
+pre#weirdArray {
+    position: absolute;
+    top: -0.1rem;
+    right: 30rem;
+}
+
+button {
+    background-color: aquamarine;
+    border-radius: 5%;
+    height: 2rem;
+    width: 11rem;
+}
